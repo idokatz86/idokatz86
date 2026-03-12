@@ -191,40 +191,6 @@ Topics I regularly explore:
 
 ---
 
-# 🔥 Featured Repository Concepts
-
-## AI Architecture Patterns
-
-Reference architectures for building AI platforms on Azure — from GPT-4o Vision pipelines to RAG systems with pgvector.
-
-## Cloud Architecture Patterns
-
-Enterprise architecture patterns including multi-layer Azure reference architectures, AWS production infrastructure, and multi-cloud policy engines.
-
-## Architecture Automation
-
-Production tools that generate infrastructure from architecture diagrams with IaC output, security scanning, and compliance mapping.
-
----
-
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=idokatz86&show_icons=true&theme=github_dark)
-
----
-
-# 📊 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=idokatz86&theme=dark)
-
----
-
-# 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=idokatz86)
-
----
-
 # 🌐 Connect With Me
 
 💼 [LinkedIn](https://linkedin.com/in/idokatz)  
