@@ -89,19 +89,6 @@ Upload AWS/GCP architecture diagrams → get Azure equivalents with **generated 
 
 ---
 
-## Second Nature CAIP Agent — Real-Time Voice AI Coach
-
-Real-time voice AI assistant for SDR training — listens to conversations and generates contextually-grounded answers scored against 5 rubrics.
-
-- Azure Whisper STT (48kHz) with RMS-based voice activity detection
-- Semantic intent routing (~0.07ms) with curriculum-grounded responses
-- WebSocket streaming with async non-blocking I/O
-- 5-rubric evaluation engine (pass threshold: 70+)
-
-**Stack:** Python · FastAPI · WebSocket · Azure OpenAI GPT-4o · Azure Whisper · SQLite · JWT Auth
-
----
-
 ## PoliCab — Multi-Cloud Policy Engine
 
 Unified policy management across Azure, AWS, and GCP — discover, translate, and enforce security policies from a single pane.
